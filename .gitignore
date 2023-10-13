@@ -1,0 +1,7 @@
+dev
+Manifest.toml
+*.obj
+*.jpg
+*.gif
+*.svg
+*.png
